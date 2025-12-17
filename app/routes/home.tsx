@@ -1,5 +1,4 @@
 import type { Route } from "./+types/home";
-import React from 'react';
 import { Welcome } from "../welcome/welcome";
 
 export function meta({}: Route.MetaArgs) {
